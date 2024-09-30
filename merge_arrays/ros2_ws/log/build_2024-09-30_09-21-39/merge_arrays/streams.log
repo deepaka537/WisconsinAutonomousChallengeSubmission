@@ -1,0 +1,22 @@
+[0.406s] Invoking command in '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays': PYTHONPATH=/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/prefix_override:/home/abdeepak/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build --no-deps symlink_data --force
+[0.565s] running develop
+[0.566s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.566s]   warnings.warn(
+[0.665s] running egg_info
+[0.665s] writing merge_arrays.egg-info/PKG-INFO
+[0.665s] writing dependency_links to merge_arrays.egg-info/dependency_links.txt
+[0.666s] writing entry points to merge_arrays.egg-info/entry_points.txt
+[0.666s] writing requirements to merge_arrays.egg-info/requires.txt
+[0.666s] writing top-level names to merge_arrays.egg-info/top_level.txt
+[0.667s] reading manifest file 'merge_arrays.egg-info/SOURCES.txt'
+[0.668s] writing manifest file 'merge_arrays.egg-info/SOURCES.txt'
+[0.669s] running build_ext
+[0.669s] Creating /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge-arrays.egg-link (link to .)
+[0.669s] Installing merge_arrays_node script to /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/merge_arrays
+[0.670s] Installing merge_arrays_tester script to /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/merge_arrays
+[0.670s] 
+[0.670s] Installed /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays
+[0.670s] running symlink_data
+[0.670s] symbolically linking /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/resource/merge_arrays -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/share/ament_index/resource_index/packages
+[0.670s] symbolically linking /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/package.xml -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/share/merge_arrays
+[0.702s] Invoked command in '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays' returned '0': PYTHONPATH=/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/prefix_override:/home/abdeepak/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build --no-deps symlink_data --force

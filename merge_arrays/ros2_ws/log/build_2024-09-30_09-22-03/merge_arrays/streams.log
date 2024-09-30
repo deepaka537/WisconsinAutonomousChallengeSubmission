@@ -1,0 +1,36 @@
+[0.391s] Invoking command in '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays': PYTHONPATH=/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/prefix_override:/home/abdeepak/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build
+[0.542s] running develop
+[0.542s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.542s]   warnings.warn(
+[0.639s] Removing /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge-arrays.egg-link (link to .)
+[0.658s] Invoked command in '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays' returned '0': PYTHONPATH=/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/prefix_override:/home/abdeepak/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build
+[0.660s] Invoking command in '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/src/merge_arrays': PYTHONPATH=/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/prefix_override:/home/abdeepak/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/merge_arrays build --build-base /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build install --record /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/install.log --single-version-externally-managed install_data --force
+[0.804s] running egg_info
+[0.804s] writing ../../build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[0.805s] writing dependency_links to ../../build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[0.805s] writing entry points to ../../build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[0.805s] writing requirements to ../../build/merge_arrays/merge_arrays.egg-info/requires.txt
+[0.805s] writing top-level names to ../../build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[0.806s] reading manifest file '../../build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.806s] writing manifest file '../../build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.807s] running build
+[0.807s] running build_py
+[0.807s] running install
+[0.808s] running install_lib
+[0.808s] creating /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.808s] copying /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build/lib/merge_arrays/merge_arrays_node.py -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.809s] copying /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build/lib/merge_arrays/__init__.py -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.809s] copying /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build/lib/merge_arrays/merge_arrays_tester.py -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.809s] byte-compiling /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/merge_arrays_node.py to merge_arrays_node.cpython-310.pyc
+[0.810s] byte-compiling /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/__init__.py to __init__.cpython-310.pyc
+[0.810s] byte-compiling /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/merge_arrays_tester.py to merge_arrays_tester.cpython-310.pyc
+[0.811s] running install_data
+[0.811s] copying resource/merge_arrays -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/share/ament_index/resource_index/packages
+[0.811s] copying package.xml -> /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/share/merge_arrays
+[0.811s] running install_egg_info
+[0.812s] Copying ../../build/merge_arrays/merge_arrays.egg-info to /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[0.813s] running install_scripts
+[0.828s] Installing merge_arrays_node script to /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/merge_arrays
+[0.828s] Installing merge_arrays_tester script to /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/merge_arrays
+[0.828s] writing list of installed files to '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/install.log'
+[0.851s] Invoked command in '/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/src/merge_arrays' returned '0': PYTHONPATH=/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/prefix_override:/home/abdeepak/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w:WT_SESSION:WT_PROFILE_ID: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/merge_arrays build --build-base /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/build install --record /home/abdeepak/CodingChallenges/merge_arrays/ros2_ws/build/merge_arrays/install.log --single-version-externally-managed install_data --force
